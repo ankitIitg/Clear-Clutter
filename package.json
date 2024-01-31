@@ -1,0 +1,13 @@
+{
+  "name": "exercise15",
+  "version": "1.0.0",
+  "description": "You have to write a Node.js program to clear clutter inside a directory into different folders",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
